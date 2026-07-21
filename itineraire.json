@@ -1,0 +1,197 @@
+{
+  "pays": "Portugal",
+  "drapeau": "🇵🇹",
+  "symbole": "☀️",
+  "titre": "Escapade relaxante à Lisbonne",
+  "budget_total": "Environ 750 €/personne",
+  "duree": "4 jours",
+  "temps_vol": "2h30 depuis Paris, france",
+  "escale": "0",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et douce immersion dans la Baixa",
+      "legende": "Après votre vol, installez-vous confortablement. La première journée sera dédiée à une promenade apaisante dans le quartier de la Baixa, reconstruit après le tremblement de terre, et à la découverte de la majestueuse Praça do Comércio au bord du Tage.",
+      "lieu": "Lisbonne",
+      "activites": [
+        "<strong>🛬 Arrivée à Lisbonne</strong>: Atterrissage à l'aéroport Humberto Delgado (LIS) et transfert vers votre hôtel.",
+        "<strong>🛏️ Installation à l'hôtel</strong>: Prenez le temps de vous rafraîchir et de vous installer dans votre hébergement au cœur de la ville.",
+        "<strong>🚶‍♂️ Balade relaxante dans la Baixa et Praça do Comércio</strong>: Flânez dans les rues quadrillées de la Baixa, admirez l'architecture pombaline et terminez par la vaste Praça do Comércio, ouverte sur le fleuve Tage."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Praça do Comércio, Lisbonne",
+          "categorie": "Place",
+          "coords": { "lat": 38.7079, "lng": -9.1365 }
+        },
+        {
+          "nom_recherche": "Arc de Triomphe de la Rua Augusta, Lisbonne",
+          "categorie": "Monument",
+          "coords": { "lat": 38.7078, "lng": -9.1367 }
+        }
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Transfert aéroport",
+          "texte": "L'aéroport est bien desservi par le métro (ligne rouge) qui vous mènera au centre-ville en environ 20-30 minutes."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🚋",
+      "titre": "Charme de l'Alfama et vues panoramiques",
+      "legende": "Découvrez le quartier historique de l'Alfama à bord du mythique tram 28, une expérience relaxante pour admirer les ruelles étroites et les points de vue imprenables. Terminez la journée par un moment de détente dans un \"miradouro\" (belvédère).",
+      "lieu": "Lisbonne",
+      "activites": [
+        "<strong>🚋 Balade en Tram 28</strong>: Montez à bord du célèbre tram jaune pour une visite pittoresque des quartiers historiques, une façon douce de découvrir la ville sans effort.",
+        "<strong>🚶‍♀️ Exploration de l'Alfama</strong>: Perdez-vous volontairement dans le dédale de ruelles médiévales de l'Alfama, le plus ancien quartier de Lisbonne, et imprégnez-vous de son atmosphère unique.",
+        "<strong>🌅 Détente au Miradouro de Santa Luzia</strong>: Profitez d'une vue imprenable sur le Tage et les toits de l'Alfama depuis ce belvédère, idéal pour un moment de calme et de contemplation."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Tram 28, Lisbonne",
+          "categorie": "Transport touristique",
+          "coords": { "lat": 38.7139, "lng": -9.1394 }
+        },
+        {
+          "nom_recherche": "Miradouro de Santa Luzia, Lisbonne",
+          "categorie": "Belvédère",
+          "coords": { "lat": 38.7126, "lng": -9.1308 }
+        },
+        {
+          "nom_recherche": "Cathédrale de Lisbonne",
+          "categorie": "Monument religieux",
+          "coords": { "lat": 38.7079, "lng": -9.1365 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Astuce Tram 28",
+          "texte": "Pour éviter la foule, prenez le tram tôt le matin ou en fin d'après-midi. Un titre de transport journalier est plus économique."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🏰",
+      "titre": "Journée culturelle à Belém et douceur des Pastéis",
+      "legende": "Consacrez cette journée au quartier de Belém, berceau des grandes découvertes portugaises. Visitez des monuments emblématiques et savourez les célèbres Pastéis de Nata dans leur lieu d'origine, une expérience gourmande et relaxante.",
+      "lieu": "Lisbonne",
+      "activites": [
+        "<strong>🏰 Visite de la Tour de Belém</strong>: Admirez cette forteresse emblématique, symbole de l'âge d'or des découvertes maritimes portugaises, située au bord du Tage.",
+        "<strong>⛪ Exploration du Monastère des Hiéronymites</strong>: Découvrez ce chef-d'œuvre de l'architecture manuéline, classé au patrimoine mondial de l'UNESCO, et son magnifique cloître.",
+        "<strong>🍰 Dégustation des Pastéis de Belém</strong>: Offrez-vous une pause gourmande à la pâtisserie originale qui fabrique ces délicieuses tartelettes à la crème depuis 1837."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Tour de Belém, Lisbonne",
+          "categorie": "Monument",
+          "coords": { "lat": 38.6916, "lng": -9.2160 }
+        },
+        {
+          "nom_recherche": "Monastère des Hiéronymites, Lisbonne",
+          "categorie": "Monument religieux",
+          "coords": { "lat": 38.6979, "lng": -9.2061 }
+        },
+        {
+          "nom_recherche": "Pastéis de Belém, Lisbonne",
+          "categorie": "Pâtisserie",
+          "coords": { "lat": 38.6973, "lng": -9.2063 }
+        }
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🚶",
+          "titre": "Accès à Belém",
+          "texte": "Le tram 15E depuis la Praça da Figueira ou le bus sont d'excellentes options pour rejoindre Belém facilement."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🛍️",
+      "titre": "Derniers instants et départ",
+      "legende": "Profitez de cette dernière matinée pour une visite décontractée du quartier branché de l'LX Factory, parfait pour dénicher des souvenirs uniques ou simplement flâner. Ensuite, il sera temps de vous diriger vers l'aéroport pour votre vol retour.",
+      "lieu": "Lisbonne",
+      "activites": [
+        "<strong>🎨 Flânerie à l'LX Factory</strong>: Explorez cet ancien complexe industriel transformé en un espace créatif avec des boutiques de designers, des cafés branchés et des galeries d'art. Idéal pour une ambiance décontractée.",
+        "<strong>🎁 Achats de souvenirs</strong>: Profitez des dernières heures pour trouver des cadeaux uniques ou des produits locaux à ramener de votre voyage.",
+        "<strong>✈️ Départ de Lisbonne</strong>: Transfert vers l'aéroport Humberto Delgado pour votre vol retour vers Paris, la tête pleine de souvenirs."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "LX Factory, Lisbonne",
+          "categorie": "Espace culturel et commercial",
+          "coords": { "lat": 38.7035, "lng": -9.1767 }
+        }
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "⏰",
+          "titre": "Temps de trajet",
+          "texte": "Prévoyez suffisamment de temps pour le transfert vers l'aéroport, surtout si vous partez aux heures de pointe."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "129 €/pers (A/R)", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 30-40 €/pers (carte Viva Viagem)", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "Environ 150-200 €/pers (35-50€/jour)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 250-350 €/pers (3 nuits en hôtel 3* moyen)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 50-80 €/pers (entrées monuments, tram)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Printemps (Avril-Juin)", "symbole": "🌸" },
+    { "titre": "Automne (Septembre-Octobre)", "symbole": "🍂" }
+  ],
+  "infos_pratiques": [
+    { "titre": "La monnaie est l'Euro (€). Les cartes bancaires sont largement acceptées, mais ayez un peu de liquide pour les petits commerces ou les marchés.", "symbole": "💳" },
+    { "titre": "Lisbonne est construite sur sept collines. Prévoyez des chaussures confortables pour marcher et n'hésitez pas à utiliser les funiculaires ou les ascenseurs publics.", "symbole": "👟" },
+    { "titre": "Le portugais est la langue officielle. L'anglais est parlé dans les zones touristiques, mais quelques mots de portugais seront appréciés.", "symbole": "🗣️" },
+    { "titre": "Le climat est méditerranéen. En dehors de l'été, les températures sont douces mais prévoyez une petite veste pour les soirées et un parapluie en cas de pluie.", "symbole": "☀️" }
+  ],
+  "infos_decallees": [
+    {
+      "symbole": "💡",
+      "titre": "Le saviez-vous ?",
+      "texte": "Lisbonne est l'une des plus anciennes villes d'Europe occidentale, plus ancienne que Rome. Elle fut fondée par les Phéniciens il y a plus de 3000 ans."
+    },
+    {
+      "symbole": "🙃",
+      "titre": "Insolite",
+      "texte": "Le Pont du 25 Avril de Lisbonne ressemble étrangement au Golden Gate Bridge de San Francisco. C'est normal, ils ont été construits par la même compagnie américaine!"
+    }
+  ],
+  "specialites_culinaires": [
+    {
+      "symbole": "🍴",
+      "titre": "Bacalhau à Brás",
+      "description": "Un plat réconfortant à base de morue effilochée, d'oignons, de pommes de terre frites coupées en fines pailles, le tout lié par des œufs brouillés et parsemé d'olives noires."
+    },
+    {
+      "symbole": "🍰",
+      "titre": "Pastéis de Nata",
+      "description": "Ces petites tartelettes à la crème pâtissière, dont la recette est gardée secrète, sont un incontournable. Croustillantes à l'extérieur, fondantes à l'intérieur, elles se dégustent tièdes, saupoudrées de cannelle."
+    },
+    {
+      "symbole": "🍒",
+      "titre": "Ginjinha",
+      "description": "Une liqueur de cerises aigres, souvent servie dans un petit verre en chocolat. C'est une boisson traditionnelle, parfaite pour terminer un repas ou pour une pause gourmande."
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/CDG-LIS/2026-11-10/2026-11-14", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Visit Lisbon", "url": "https://www.visitlisboa.com/fr", "symbole": "📘" },
+    { "legende": "Transports en commun", "titre": "Carris (bus, tram, funiculaires)", "url": "https://www.carris.pt/en/", "symbole": "🚋" },
+    { "legende": "Météo", "titre": "IPMA (Météo Portugal)", "url": "https://www.ipma.pt/en/", "symbole": "🌤️" }
+  ]
+}
